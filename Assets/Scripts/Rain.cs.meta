@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2c4a92f184c3e469ba651afadece11c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Camera: {instanceID: 0}
+  - RainAudioLight: {fileID: 8300000, guid: c980eda1ec9b9ff4b930005976b00f41, type: 3}
+  - RainAudioMedium: {fileID: 8300000, guid: 3359e9d10af08ca46ae396298dbd1ed9, type: 3}
+  - RainAudioHeavy: {fileID: 8300000, guid: db1471092e49b7445bfbd374a17ea61a, type: 3}
+  - ThunderstormAudio: {fileID: 8300000, guid: 71dfda32b989bb44c8b9c16e9cb762eb, type: 3}
+  - RainAudioMixer: {instanceID: 0}
+  - RainFallParticleSystem: {instanceID: 0}
+  - RainExplosionParticleSystem: {instanceID: 0}
+  - RainMistParticleSystem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

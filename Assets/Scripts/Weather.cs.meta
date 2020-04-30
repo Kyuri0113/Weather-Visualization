@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 286f4d7a69cb74d9f92329a98597e24c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Rain: {instanceID: 0}
+  - Light: {instanceID: 0}
+  - Sunny: {fileID: 2100000, guid: 85cf0b004bc4a654b9e501efcce47902, type: 2}
+  - Sunny_Periods: {fileID: 2100000, guid: d9dca9ae1786c394f9e79c637aa9a7bf, type: 2}
+  - Cloudy: {fileID: 2100000, guid: 3e5399bd195de7649b874f58c1b9f8a3, type: 2}
+  - Night_Fine: {fileID: 2100000, guid: bcefa19161d3444f8a9c8591b557d3d7, type: 2}
+  - Night_Cloudy: {fileID: 2100000, guid: 4b6aee94865a141e5a0d1651756cc928, type: 2}
+  - Night_MainlyFine: {fileID: 2100000, guid: d4454f71d85928744be7771e2143dab7, type: 2}
+  - Thunderstorm: {fileID: 2100000, guid: 2039a0ad0a9d05549928b70362f54902, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
